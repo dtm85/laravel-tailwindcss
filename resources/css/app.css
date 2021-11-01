@@ -6,3 +6,19 @@
 @tailwind utilities;
 
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap");
+
+.btn {
+    @apply shadow-md py-2 px-5 rounded-md transition duration-500 transform hover:scale-110;
+}
+
+.btn-red {
+    @apply bg-clr-light-coral text-clr-floral-white hover:bg-clr-sea-green;
+}
+
+.btn-blue {
+    @apply bg-clr-cg-blue text-clr-floral-white hover:bg-clr-max-yellow-red hover:text-gray-800;
+}
+
+.btn-gray {
+    @apply bg-gray-400;
+}

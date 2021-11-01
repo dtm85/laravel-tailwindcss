@@ -13,6 +13,13 @@ module.exports = {
                 "clr-max-yellow-red": "#FFCB77",
                 "clr-floral-white": "#FEF9EF",
                 "clr-light-coral": "#FE6D73",
+                "clr-link": "#11c0e9",
+                "clr-js": "#e8d44d",
+                "clr-special": "#ba98f5",
+                "clr-github": "#6e5494",
+                "clr-discord": "#7289da",
+                "clr-linkedin": "#0e76a8",
+                "clr-twitter": "#08a0e9",
             },
         },
         container: {
