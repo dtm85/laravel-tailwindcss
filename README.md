@@ -72,9 +72,9 @@ This will install all the dependencies in the package.json file for you to run i
 <br>
 
 -   🌱&nbsp;&nbsp; I’m currently learning JavaScript
--   👯&nbsp;&nbsp; I’m looking to collaborate with other developers on projects
--   🥅&nbsp;&nbsp; 2021 Goals: Learn Advanced JavaScript concepts
--   ⚡&nbsp;&nbsp; Fun fact: I love to build woodworking projects, remodel my house, hike and travel
+-   👯&nbsp;&nbsp; I’m looking to collaborate with other developers on projects to up my skills in web dev.
+-   🥅&nbsp;&nbsp; 2024 Goals: Learn Advanced JavaScript concepts, REST API, NodeJs
+-   ⚡&nbsp;&nbsp; Fun fact: I love to build woodworking projects, remodel my house, hike, travel and play ARK.
 
 <br>
 <br>
@@ -90,11 +90,11 @@ This will install all the dependencies in the package.json file for you to run i
 
 <br>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dtm)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ddumitru85)
 
 <br />
 <br>
 
 [website]: https://www.dantechmedia.com
 [twitter]: https://twitter.com/DanTechMedia
-[linkedin]: https://linkedin.com/in/dtm
+[linkedin]: https://linkedin.com/in/ddumitru85
